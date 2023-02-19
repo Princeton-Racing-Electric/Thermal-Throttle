@@ -1,4 +1,5 @@
 (sym_lib_table
   (lib (name "Espressif")(type "KiCad")(uri "${KIPRJMOD}/kicad-libraries/libraries/Espressif.kicad_sym")(options "")(descr ""))
   (lib (name "BMI088")(type "KiCad")(uri "${KIPRJMOD}/bmi088/BMI088.kicad_sym")(options "")(descr ""))
+  (lib (name "A7986ATR")(type "Legacy")(uri "${KIPRJMOD}/A7986ATR/A7986ATR.lib")(options "")(descr ""))
 )
