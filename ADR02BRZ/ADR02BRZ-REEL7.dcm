@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADR02BRZ-REEL7
+D ANALOG DEVICES - ADR02BRZ-REEL7 - Voltage Reference Series - Fixed, 5V reference, 3ppm/C, NSOIC-8
+K
+F https://www.analog.com/media/en/technical-documentation/data-sheets/adr01_02_03_06.pdf
+$ENDCMP
+#
+#End Doc Library

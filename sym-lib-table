@@ -2,4 +2,6 @@
   (lib (name "Espressif")(type "KiCad")(uri "${KIPRJMOD}/kicad-libraries/libraries/Espressif.kicad_sym")(options "")(descr ""))
   (lib (name "BMI088")(type "KiCad")(uri "${KIPRJMOD}/bmi088/BMI088.kicad_sym")(options "")(descr ""))
   (lib (name "A7986ATR")(type "Legacy")(uri "${KIPRJMOD}/A7986ATR/A7986ATR.lib")(options "")(descr ""))
+  (lib (name "ADR02BRZ-REEL7")(type "Legacy")(uri "${KIPRJMOD}/ADR02BRZ/ADR02BRZ-REEL7.lib")(options "")(descr ""))
+  (lib (name "LMR51420XFDDCR")(type "Legacy")(uri "${KIPRJMOD}/LMR51420XFDDCR/LMR51420XFDDCR.lib")(options "")(descr ""))
 )
