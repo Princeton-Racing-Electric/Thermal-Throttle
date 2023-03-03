@@ -3713,7 +3713,7 @@
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
-  (global_label "ADC_CH4" (shape input) (at 270.51 358.14 0) (fields_autoplaced)
+  (global_label "ADC_CH3" (shape input) (at 270.51 358.14 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 4a1a2372-0872-4231-b780-c9c2f5f48881)
     (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 281.3293 358.0606 0)
