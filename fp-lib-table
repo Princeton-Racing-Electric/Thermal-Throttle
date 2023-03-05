@@ -5,4 +5,5 @@
   (lib (name "ADR02BRZ")(type "KiCad")(uri "${KIPRJMOD}/ADR02BRZ")(options "")(descr ""))
   (lib (name "LMR51420XFDDCR")(type "KiCad")(uri "${KIPRJMOD}/LMR51420XFDDCR")(options "")(descr ""))
   (lib (name "libraries")(type "KiCad")(uri "${KIPRJMOD}/kicad-libraries/libraries.pretty")(options "")(descr ""))
+  (lib (name "pre_logo")(type "KiCad")(uri "${KIPRJMOD}/kicad-libraries/footprints/pre_logo.pretty")(options "")(descr ""))
 )
